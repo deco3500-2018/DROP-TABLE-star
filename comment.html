@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<h3>A demonstration of adding comment</h3>
+<div id="commentArea">
+  <div id="cmtText"></div>
+  <form id="comment" action="#" method="GET">
+    <label for="cmt">Comment: </label>
+    <!-- <input type="text" name="cmt" placeholder="Add your comment here..."><br> -->
+    <textarea name="cmt" cols="40" rows="5" placeholder="Add your comment here..."></textarea><br>
+    <input TYPE="button" NAME="button" Value="Add Comment" onClick=addComment(this.form)>
+  </form>
+</div>
+
+
+
+<script>
+function addComment (form) {
+    var newComment = form.cmt.value;
+
+    var pNode = document.createElement("p");
+    var textNode = document.createTextNode(newComment);
+    pNode.appendChild(textNode);
+    document.getElementById("cmtText").appendChild(pNode);
+    //alert ("You typed: " + TestVar);
+}
+</script>
+
+</body>
+</html>
+
+<!-- <HTML>
+<HEAD>
+<TITLE>Test Input</TITLE>
+<SCRIPT LANGUAGE="JavaScript">
+function testResults (form) {
+    var TestVar = form.inputbox.value;
+    alert ("You typed: " + TestVar);
+}
+</SCRIPT>
+</HEAD>
+<BODY>
+<FORM NAME="myform" ACTION="" METHOD="GET">Enter something in the box: <BR>
+<INPUT TYPE="text" NAME="inputbox" VALUE=""><P>
+<INPUT TYPE="button" NAME="button" Value="Click" onClick="testResults(this.form)">
+</FORM>
+</BODY>
+</HTML> -->
