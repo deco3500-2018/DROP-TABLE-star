@@ -21,5 +21,6 @@ Progress was documented in [this](https://github.com/deco3500-2018/DROP-TABLE-st
 # Who did what?
 **James:** was responsible for   
 **Ivan:** was responsible for   
-**Vince:** was responsible for 
+**Vince:** was responsible for
+
 **Kwangjin(Elliot) Kim** was responsible for UI and prototype design and creation of promotional material.
