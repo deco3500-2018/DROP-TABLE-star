@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
+<link rel="stylesheet" href="styles.css">
 <style>
 img {
     display: block;
@@ -10,7 +11,47 @@ img {
 </style>
 </head>
 <body>
-<img src="pages/Comment.png" alt="comment_blank" usemap="#commentBlankMap">
+
+<div id="container">
+	
+
+	<img src="pages/Comment.png" alt="comment_blank" usemap="#commentBlankMap">
+	<div id="comments">
+		<div id="CommentsHeader">
+			<div id="commentsTitle"><b>Comments: Extreme global weather</b> </div>
+			<img id="addComment" src="images/addComment.png" alt="Click to add Comment." onclick="generateRow();">
+		</div>
+	
+		<div class="commentLine">
+			<img class="profileImg" src="images/dDP.png" alt="No Profile Picture Available">
+			<div><b>Daniel Craig</b> 30 mins ago</div>
+			<div>I don't think the resource #7 from the Korean researchers are reliable. They referenced random articles and threads from Wikipedia and Reddit.</div>
+			<img class = "voteImg" src="images/c1arrow.png" alt="Upvotes Unavailable." onclick='this.src="images/c1upvote.png"'>
+			<img class = "replyImg" src="images/reply.png" alt="Click to Reply" >
+			<img class = "reportImg" src="images/report.png" alt="Reports Unavailable" >
+		</div>
+		
+		<div class="commentLine">
+			<img class="profileImg" src="images/lDP.png" alt="No Profile Picture Available">
+			<div><b>Larry Smith</b> 10 mins ago</div>
+			<div>I think the article from science today is pretty reliable. It is peer reviewed.</div>
+			<img class = "voteImg" src="images/c2arrow.png" alt="Upvotes Unavailable." onclick='this.src="images/c2upvote.png"'>
+			<img class = "replyImg" src="images/reply.png" alt="Click to Reply" >
+			<img class = "reportImg" src="images/report.png" alt="Reports Unavailable" >
+		</div>
+		
+		<div class="commentLine">
+			<img class="profileImg" src="images/jDP.png" alt="No Profile Picture Available">
+			<div><b>John Gold</b> 7 mins ago</div>
+			<div>I am really not sure about the article #18 from ThisisAllFakeNews.com, it doesn't seem credible. </div>
+			<img class = "voteImg" src="images/c0arrow.png" alt="Upvotes Unavailable." onclick='this.src="images/c0upvote.png"'>
+			<img class = "replyImg" src="images/reply.png" alt="Click to Reply" >
+			<img class = "reportImg" src="images/report.png" alt="Reports Unavailable" >
+		</div>
+		
+	</div>
+</div>
+	
 <map name="commentBlankMap">
   <!-- side nav bar   -->
   <area target="" alt="logo" title="logo" href="mainPageVer3.html" coords="234,252,34,73" shape="rect">
@@ -28,13 +69,43 @@ img {
   <area target="" alt="reply_cmt_2" title="reply_cmt_2" href="comment.html" coords="393,781,441,794" shape="rect">
   <area target="" alt="reply_cmt_3" title="reply_cmt_3" href="comment.html" coords="396,866,444,881" shape="rect"> -->
   <area target="" alt="drop_down_icon" title="drop_down_icon" href="topic_page_spread.html" coords="1381,545,1407,571" shape="rect">
-
+	
+	
 
 </map>
 <script>
+var commentOpen = new Boolean(False);
+
 function signOut() {
     alert("You are signed out!");
 }
+
+function generateRow() {
+	var d=document.getElementById("commentsTitle");
+	if (!commentOpen){
+	d.innerHTML+="<p><textarea type='textarea' rows='6' cols='50' name='newComment' id='newComment'></textarea>";
+	d.innerHTML+="<button type='button' onclick='submitComment();' id='newCommentButton'>Submit</button>";
+	}else{
+		var e1 = document.getElementById("newComment");
+		e1.parentNode.removeChild(e1);
+		var e2 = document.getElementById("newCommentButton");
+		e2.parentNode.removeChild(e2);
+	}
+	
+	commentOpen = !commentOpen
+}
+
+function submitComment(){
+	var d=document.getElementById("comments");
+	var text = document.getElementById("newComment").value;
+	//alert(text);
+	d.innerHTML+="<div class='commentLine'> <img class='profileImg' src='images/anonDP.jpg' alt='No Profile Picture Available'> <div><b>Ivan Cheng</b> 0 mins ago</div> <div>" +text+ "</div><img class = 'voteImg' src='images/c0arrow.png' onclick='this.src=\"images/c0upvote.png\"'  alt='Upvotes Unavailable.'><img class = 'replyImg' src='images/reply.png' alt='Click to Reply' ><img class = 'reportImg' src='images/report.png' alt='Reports Unavailable' ></div>";
+	
+	
+}
+
+
+
 </script>
 </body>
 </html>

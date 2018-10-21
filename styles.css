@@ -1,0 +1,75 @@
+#container {
+    position: relative;   
+	width: 1440px;
+	height: 900px;
+	display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#comments{
+	position: absolute;
+	width: 1160px;
+	height: 320px;
+	bottom: 0px;
+    right: 20px; 
+	
+}
+
+/*Comments header */
+#CommentsHeader{
+	margin-bottom: 25px;
+	margin-top: 5px;
+	margin-left: 10px;
+}
+
+#commentsTitle{
+	display: inline-block;
+	height:20px;
+	margin-left: 10px;
+	
+}
+#addComment{
+	height: 20px;
+	float: left;
+}
+
+#newComment{
+	display: inline-block;
+	
+}
+
+/*Individual Comments */
+.commentLine{
+	width:1150px;
+	height: 70px;
+	margin-left: 10px;
+	margin-bottom: 10px;
+}
+
+.commentLine .profileImg{
+	height: 70px;
+	float: left;
+	margin-right: 20px;
+}
+
+.commentLine .voteImg{
+	height: 25px;
+	float: left;
+	margin-top: 3px;
+}
+
+.commentLine .replyImg{
+	height: 25px;
+	float: left;
+	margin-left: 20px;
+	margin-top: 3px;
+}
+
+.commentLine .reportImg{
+	height: 35px;
+	width: 80px;
+	float: right;
+	margin-right: 10px;
+}
+
