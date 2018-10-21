@@ -1,6 +1,12 @@
-# Promotional Material
+# Promotional Materials
 
-**Promotional Poster for The Truth Table:**
+### Poster
+![poster](https://github.com/deco3500-2018/DROP-TABLE-star/blob/master/A2POSTER.png)
+*The project poster*
+
+### Flyer
+![flyer](https://github.com/deco3500-2018/DROP-TABLE-star/blob/master/Flyer%20Full%20shot.png)
+*The project flyer*
 
 # Instructions for Building the prototype
 1. Clone this repository.
