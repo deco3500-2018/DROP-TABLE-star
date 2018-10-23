@@ -1,5 +1,5 @@
 # Team Drop Table*
-+ Qishi (Vince) Zheng - q.zheng@uqconnect.edu.au
++ Qishi Zheng - q.zheng@uqconnect.edu.au
 + James Stewart Kizmann - XXXXXX@XXX.XX.XX
 + Tze Lok (Ivan) Cheng - XXXXXX@XXX.XX.XX
 + Kwangjin (Elliot) Kim - XXXXXX@XXX.XX.XX
@@ -26,11 +26,11 @@
 
 # Further Testing
 
+# Work Distribution
+- James: was responsible   
+- Ivan: was responsible for 
+- Qishi: was responsible for building the final webpage prototype with html, css and JavaScript.
+- Elliot: was responsible for UI and prototype design and creation of promotional materials.
+
 # Documentation of Progress
 Progress was documented in [this](https://github.com/deco3500-2018/DROP-TABLE-star/wiki) wiki page.
-
-# Work Distribution
-**James:** was responsible   
-**Ivan:** was responsible for 
-**Vince:** was responsible for building the final webpage prototype with html, css and JavaScript.
-**Elliot:** was responsible for UI and prototype design and creation of promotional materials.
