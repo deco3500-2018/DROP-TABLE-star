@@ -1,7 +1,7 @@
 # Team Drop Table*
 + Qishi Zheng - q.zheng@uqconnect.edu.au
 + James Stewart Kizmann - XXXXXX@XXX.XX.XX
-+ Tze Lok (Ivan) Cheng - XXXXXX@XXX.XX.XX
++ Tze Lok (Ivan) Cheng - s4395705@student.uq.edu.au
 + Kwangjin (Elliot) Kim - XXXXXX@XXX.XX.XX
 
 # Project Proposal
