@@ -15,6 +15,17 @@ The Truth Table (TTT) is a social platform that aims to solve the issue of incre
 
 There are many people who find it difficult to distinquish the truth of the contents provided by media, and interviews have suggested this occurs among every participants. The rationale behind TTT is to alleviate these situations by establishing  connections between people in a shared platform, allowing social connections to form, and providing systems and that enable people to think and discuss about the crebility of those news articles.
 
+<h2>Phases</h2>
+The project was undertaken in four distinct stages. 
+The first stage was research and establish ideas. Research was conducted by James, and required investigating similar applications, as well as social concepts such as fake news. Then, requirements gathering was conducted by going through the existing solutions and identifying what these solutions missed in terms of social interaction and problem solving.  
+
+Design was undertaken after requirements collection, and was based on iterative development processes, and rapid prototyping. Design began with digital prototyping, which were then followed by contextual interviews and observing people’s interactions with the prototype. Design was undertaken by Elliot, creating wireframes and making design decision.
+
+As versions of design were created and updated, the user testings were conducted by Ivan and Vince, foucsing on the usability of prototype and its interaction with users. At the same time, James conducted News testing, which focuses on the presentation of news and how to optimise it based on different audiences. 
+
+Once the testings have been processed, the team analysed and evaulated the collected user data. The team idenfied the trends and what needs to be improved and Elliot redesigned the prototype based on the set of requirements conducted. 
+Based on the final design, Ivan and Vince constructed the functions in final prototype with the key component of the website such as the commenting or mini-game being implemented. 
+
 # Structure of Documentation
 - [Conference Poster & Promotional Material](https://github.com/deco3500-2018/DROP-TABLE-star/wiki/Documentation#conference-poster--promotional-material)
   - [Poster](https://github.com/deco3500-2018/DROP-TABLE-star/wiki/Documentation#poster)
