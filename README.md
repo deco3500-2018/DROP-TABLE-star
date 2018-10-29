@@ -2,7 +2,7 @@
 + Qishi Zheng - q.zheng@uqconnect.edu.au
 + James Stewart Kizmann - XXXXXX@XXX.XX.XX
 + Tze Lok (Ivan) Cheng - s4395705@student.uq.edu.au
-+ Kwangjin (Elliot) Kim - XXXXXX@XXX.XX.XX
++ Kwangjin (Elliot) Kim - kwangjin.kim@uqconnect.edu.au
 
 # Project Proposal
 [Proposal](https://github.com/deco3500-2018/DROP-TABLE-star/wiki/Proposal)
