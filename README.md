@@ -1,5 +1,6 @@
 # Team Drop Table*
 ![team_logo](https://github.com/deco3500-2018/DROP-TABLE-star/blob/master/Team%20DROP%20TABLE.png)
+<strong><i>Course:</i>DECO3500 Social & Mobile Computing</strong><br>
 + Qishi Zheng - q.zheng@uqconnect.edu.au
 + James Stewart Kizmann - XXXXXX@XXX.XX.XX
 + Tze Lok (Ivan) Cheng - s4395705@student.uq.edu.au
