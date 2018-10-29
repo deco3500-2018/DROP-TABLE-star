@@ -46,3 +46,6 @@ Based on the final design, Ivan and Vince constructed the functions in final pro
 4. Now you can play around with the prototype
 
 # [Documentation of Progress](https://github.com/deco3500-2018/DROP-TABLE-star/wiki)
+
+<h2>Tags</h2>
+#socialsoftware #fakenews 
