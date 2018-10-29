@@ -14,7 +14,7 @@ The project addresses the theme of ‘Fake News’ and interprets it in the cont
 
 The target audience for this project was chosen to be people looking for reliable news source on Social Media, in particular younger people who prefer to use electrical devices for adapting new information compared to the physical resources including newspapers and magazines. There are many people who find it difficult to distinquish the truth of the contents provided by media, and interviews have suggested this occurs among every participants. The rationale behind TTT is to alleviate these situations by establishing  connections between people in a shared platform, allowing social connections to form, and providing systems and that enable people to think and discuss about the crebility of those news articles.
 
-The original project proposal for In the Moment can be read [here](https://github.com/deco3500-2018/DROP-TABLE-star/wiki/Proposal).
+The original project proposal for The Truth Table can be read [here](https://github.com/deco3500-2018/DROP-TABLE-star/wiki/Proposal).
 
 <h2>Phases</h2>
 The project was undertaken in four distinct stages. 
