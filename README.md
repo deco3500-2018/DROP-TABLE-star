@@ -8,8 +8,8 @@
 
 # Guide to the contents of the repository
 
-# Project Overview
-
+# Project Overview & Phases
+<h2>Overview</h2>
 The project addresses the theme of ‘Fake News’ and interprets it in the context of social-media. The Truth Table (TTT) is a social platform that aims to solve the issue of increasing ‘Fake News’ produced by mainstream media, with the intent of manipulation and spreading of biased opinions. The Truth Table connects people to interact and discuss about the current news topics and related articles by sharing opinions and judging the reliability of sources. The aim of The Truth Table is to provide a platform for such users to work together and find the ‘Truth’, through mutual discussion and voting systems. Whether it’s political events, technology news, science questions, or issues happening all around the globe, TTT will have the topic right there, ready for people to find the truth. 
 
 The target audience for this project was chosen to be people looking for reliable news source on Social Media, in particular younger people who prefer to use electrical devices for adapting new information compared to the physical resources including newspapers and magazines. There are many people who find it difficult to distinquish the truth of the contents provided by media, and interviews have suggested this occurs among every participants. The rationale behind TTT is to alleviate these situations by establishing  connections between people in a shared platform, allowing social connections to form, and providing systems and that enable people to think and discuss about the crebility of those news articles.
