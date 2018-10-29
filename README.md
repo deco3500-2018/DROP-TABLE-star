@@ -1,5 +1,5 @@
 # Team Drop Table*
-https://github.com/deco3500-2018/DROP-TABLE-star/blob/master/Team%20DROP%20TABLE.png
+![team_logo](https://github.com/deco3500-2018/DROP-TABLE-star/blob/master/Team%20DROP%20TABLE.png)
 + Qishi Zheng - q.zheng@uqconnect.edu.au
 + James Stewart Kizmann - XXXXXX@XXX.XX.XX
 + Tze Lok (Ivan) Cheng - s4395705@student.uq.edu.au
