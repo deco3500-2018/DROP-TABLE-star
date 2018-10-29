@@ -48,4 +48,4 @@ Based on the final design, Ivan and Vince constructed the functions in final pro
 # [Documentation of Progress](https://github.com/deco3500-2018/DROP-TABLE-star/wiki)
 
 <h2>Tags</h2>
-#socialsoftware #fakenews 
+#socialmedia #fakenews #bias
