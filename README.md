@@ -3,7 +3,7 @@
 <strong><i>Course:</i>DECO3500 Social & Mobile Computing</strong><br>
 + Qishi Zheng - q.zheng@uqconnect.edu.au
 + James Stewart Kizmann - XXXXXX@XXX.XX.XX
-+ Tze Lok (Ivan) Cheng - s4395705@student.uq.edu.au
++ Tze Lok (Ivan) Cheng - tze.cheng@uqconnect.edu.au
 + Kwangjin (Elliot) Kim - kwangjin.kim@uqconnect.edu.au
 
 # Guide to the contents of the repository
